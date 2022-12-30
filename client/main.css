@@ -1,0 +1,17 @@
+.item-form {
+  width: 100%;
+}
+
+.item-table__row input[type=checkbox],
+.item-table__row .btn-success {
+  display: none;
+}
+
+.item-table__row--editable {
+  background-color: rgb(131, 241, 136);
+}
+
+.item-table__row--editable input[type=checkbox],
+.item-table__row--editable .btn-success {
+  display: inline-block;
+}

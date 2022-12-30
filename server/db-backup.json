@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Passport",
+      "done": false
+    },
+    {
+      "id": "2",
+      "title": "Tickets",
+      "done": false
+    },
+    {
+      "id": "3",
+      "title": "Camera",
+      "done": false
+    },
+    {
+      "id": "4",
+      "title": "Cellphone",
+      "done": true
+    },
+    {
+      "id": "5",
+      "title": "Charger",
+      "done": false
+    },
+    {
+      "title": "Glasses",
+      "done": true,
+      "id": "6"
+    },
+    {
+      "title": "Money",
+      "done": true,
+      "id": "7"
+    },
+    {
+      "title": "Luggage",
+      "done": true,
+      "id": "-9_n7-j"
+    }
+  ]
+}

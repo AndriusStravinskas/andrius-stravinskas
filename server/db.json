@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Passport",
+      "done": true
+    },
+    {
+      "id": "2",
+      "title": "Tickets",
+      "done": false
+    },
+    {
+      "id": "3",
+      "title": "Camera",
+      "done": false
+    },
+    {
+      "id": "4",
+      "title": "Cellphone",
+      "done": false
+    },
+    {
+      "id": "5",
+      "title": "Charger",
+      "done": true
+    },
+    {
+      "title": "Glasses",
+      "done": true,
+      "id": "6"
+    },
+    {
+      "title": "Money",
+      "done": true,
+      "id": "7"
+    }
+  ]
+}
